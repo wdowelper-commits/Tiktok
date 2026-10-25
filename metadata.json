@@ -1,0 +1,6 @@
+{
+  "name": "ShortVideo",
+  "description": "Mobile-first short video sharing platform with responsive feeds, uploads, social interactions, messaging, live-stream directory, and role-based admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
